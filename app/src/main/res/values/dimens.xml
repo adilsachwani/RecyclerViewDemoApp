@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cardDimension">10dp</dimen>
+    <dimen name="rankingSize">25sp</dimen>
+    <dimen name="nameSize">20sp</dimen>
+    <dimen name="countrySize">17sp</dimen>
+</resources>
